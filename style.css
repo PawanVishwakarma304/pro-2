@@ -1,0 +1,14 @@
+
+#logoset {
+    height: 50px;
+    width: 110px;
+}
+#list {
+    list-style: none;
+}
+.listItem{
+    display: inline-block;
+    margin-right: 120px;
+    color: white;
+    padding: 10px;
+}
